@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-8c6476) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [nano-banana-2-1-prompts-de](https://github.com/tn-gr0cr/nano-banana-2-1-prompts-de)
+- **Same model, other languages** — 9 more language builds: 中文 [nano-banana-2-1-api-cn](https://github.com/g8yg5t1oq/nano-banana-2-1-api-cn) · Español [nano-banana-2-1-api-es](https://github.com/rx5umw-ict13/nano-banana-2-1-api-es) · Français `nano-banana-2-1-api-fr` · Relay/gateway `nano-banana-2-1-api-gateway` · Bahasa [nano-banana-2-1-api-id](https://github.com/a3g9df6h4jh/nano-banana-2-1-api-id) · 日本語 `nano-banana-2-1-api-ja` · 한국어 `nano-banana-2-1-api-ko` · Português [nano-banana-2-1-api-pt](https://github.com/ulpgjzie6fwa/nano-banana-2-1-api-pt) · Русский [nano-banana-2-1-api-ru](https://github.com/jqhc31it1vme/nano-banana-2-1-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [nano-banana-2-1](https://github.com/topics/nano-banana-2-1) · [nano-banana-2-1-api](https://github.com/topics/nano-banana-2-1-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
